@@ -1,0 +1,1 @@
+export {ResponsiveVideo} from './responsiveVideo';
