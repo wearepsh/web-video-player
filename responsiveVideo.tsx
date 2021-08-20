@@ -18,7 +18,7 @@ const VideoContainer = styled.div`
 	}
 `
 
-export const ResponsiveVideo = (props: IProps) => {
+export const WebVideoPlayer = (props: IProps) => {
   console.log(props,"props")
   return(
     <VideoContainer>

@@ -1,1 +1,1 @@
-export {ResponsiveVideo} from './responsiveVideo';
+export {WebVideoPlayer} from './responsiveVideo';
